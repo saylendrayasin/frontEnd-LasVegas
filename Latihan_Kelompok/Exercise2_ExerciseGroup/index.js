@@ -1,5 +1,8 @@
 //------------------------------------------------------------------Array-------------------------------------------------------------------------
 
+//Update command in github
+console.log("Updated");
+
 let people = ["Greg", "Mary", "Devon", "James"];
 
 //1. For looping
