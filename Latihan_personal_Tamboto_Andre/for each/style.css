@@ -1,0 +1,17 @@
+h1{
+    color: black;
+}
+body{
+    background-color:black ;
+}
+
+.w {
+    /* border: solid 1px black; */
+    height: 200px;
+    background-color: rgb(126, 42, 165);
+    position: relative;
+    top: 0px;
+}
+a{
+    color :black;
+}
